@@ -27,6 +27,6 @@ public class Account
 
   public string getAccount()
   {
-    return $"Account Number: {AccountNumber}\nName: {Name}\nBalance: {Balance}";
+    return $"==============================\nKODA BANKING APP\n==============================\nAccount Number: {AccountNumber}\nName: {Name}\nBalance: {Balance}\n==============================";
   }
 }
